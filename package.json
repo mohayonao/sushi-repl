@@ -1,6 +1,6 @@
 {
   "name": "sushi-repl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "description": "Yet Another REPL",
   "keywords": [ "repl", "sushi" ],
