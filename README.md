@@ -6,6 +6,8 @@ A Read-Eval-Print-Loop (REPL) is available both as a standalone program and easi
 
 SEE ALSO: [REPL Node.js v0.10.29 Manual & Documentation](http://nodejs.org/api/repl.html)
 
+![sushi-repl](https://raw.githubusercontent.com/mohayonao/sushi-repl/master/sushi-repl.gif)
+
 ## Installation
 
 ```shell
