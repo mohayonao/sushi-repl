@@ -29,3 +29,14 @@ var sushiREPL = require("sushi-repl");
 
 sushiREPL.start({ prompt: "寿司 >" });
 ```
+
+## Examples
+CoffeeScript with Sushi REPL
+```coffee
+#!/usr/bin/env coffee
+coffeeREPL = require 'coffee-script/lib/coffee-script/repl'
+sushiREPL  = require 'sushi-repl'
+
+coffeeREPL.start
+  writer: sushiREPL.writer
+```
